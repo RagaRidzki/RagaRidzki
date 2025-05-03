@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hi, I'm Raga Ridzki Panuntun!👋🏼
-🛜 Currently working on my own [webpage](https://ragaridzki.vercel.app/)<br>👨🏼‍🎓 Studying at Wikrama Vocational Highschool<br>👨🏼‍💻 Working as a web developer since 2022
+🛜 Visit my portfolio website [webpage](https://ragaridzki.vercel.app/)<br>👨🏼‍🎓 Graduates of Wikrama Vocational Highschool<br>👨🏼‍💻 Working as a web developer since 2022
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
